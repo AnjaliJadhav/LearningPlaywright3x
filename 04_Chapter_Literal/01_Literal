@@ -1,0 +1,8 @@
+let name1= "anjali" // string literal
+let isAnjali = true // boolean literal
+let pi= 3.14 // number literal
+let fruits = ["apple", "banana", "mango"] // array literal
+let nullValue = null // null literal
+let undefinedValue = undefined // undefined literal
+
+// in java number literal is represented as int, float, double, long etc.

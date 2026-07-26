@@ -1,0 +1,11 @@
+# Taste preferences
+- Prefers explanations delivered in structured table/comparison format when contrasting multiple concepts. Confidence: 0.6
+- Prefers reference/cheatsheet content (e.g., VS Code commands) formatted as markdown tables rather than prose lists. Confidence: 0.7
+- Prefers platform-separated documentation files (e.g., separate `_mac.md` and `_win.md` files) rather than combining both platforms in a single file. Confidence: 0.8
+- Prefers saving educational or reference content as standalone `.md` files for later reference. Confidence: 0.7
+- Creates reusable prompt templates to standardize and reproduce consistent request formats. Confidence: 0.8
+- Prefers organizing educational notes into a dedicated subfolder (e.g., `IQ_notes`) rather than scattering them in the root directory. Confidence: 0.7
+- Prefers numbered/sequential filenames (e.g., `02_Keyword_Notes.md`, `03_commands_mac.md`) for note files inside the notes folder. Confidence: 0.7
+- Prefers the assistant to handle full git workflow (init, add, commit, set remote, push) rather than doing it manually. Confidence: 0.8
+- Prefers using HTTPS (not SSH) for git remote URLs. Confidence: 0.9
+- Uses `<ide-context>` blocks in requests to share the currently open file, providing grounding context for the assistant. Confidence: 0.7
